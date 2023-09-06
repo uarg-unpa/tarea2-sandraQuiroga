@@ -9,7 +9,7 @@
 # importing the random module
 import random
 
-num_1=randint(0,9)
+num_1=randin(0,9)
 num_2=random.random()
 print(f"num_1 {num_1}")
 suma=num_1 + num_2
